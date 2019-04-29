@@ -1,4 +1,4 @@
-# CSS_WebVisualization
+# CSS_Web Visualization
 
 A visualization dashboard website is created for the "API World Weather" project. 
 https://tinahuangyt.github.io/CSS_Web-Visualization/
