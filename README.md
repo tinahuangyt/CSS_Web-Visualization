@@ -1,7 +1,7 @@
 # CSS_WebVisualization
 
 A visualization dashboard website is created for the "API World Weather" project. 
-https://tinahuangyt.github.io/CSS_WebVisualization/maxtemp.html
+https://tinahuangyt.github.io/CSS_WebVisualization/index.html
 
 In building this dashboard, individual pages were created for each plot and a means by which users can navigate between them. These pages contain the visualizations and their corresponding explanations. A landing page is also included, where users can see a comparison of all of the plots, and another page where users can view the raw data used to build the plots.
 
